@@ -1,0 +1,78 @@
+body {
+  font-family: 'Arial', Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+
+.jumbotron {
+  background: linear-gradient(to right, #d030d6, #5cabe7);
+  text-align: center;
+  color: black;
+  border-radius: 0;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+  border-bottom: 5px solid black;
+}
+
+#clearFieldsBtn {
+  margin-top: 10px;
+  background: black;
+}
+
+.description {
+  white-space: pre-wrap;
+  text-align: center;
+  font-size: 20px
+}
+
+.time-block {
+  border-radius: 15px;
+}
+
+.row {
+  border-top: 1px solid black;
+}
+
+.hour {
+  background-color: #6c5ce7;
+  color: #000000;
+  border-top: 1px solid #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #d506ac;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
