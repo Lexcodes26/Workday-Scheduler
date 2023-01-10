@@ -39,5 +39,3 @@ THEN the saved events persist
 
 ## Visuals 
 ![Screen Shot 2023-01-08 at 4 49 56 PM](https://user-images.githubusercontent.com/112981795/211223219-af6b604d-aed3-4a19-b250-cdc9f82137f5.png)
-
-## Build
